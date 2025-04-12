@@ -23,12 +23,13 @@ all_subjects = sorted(set(val.strip() for sublist in mentor_df["Expertise"].drop
 all_colleges = sorted(mentor_df["Alma Mater"].dropna().unique())
 all_styles = sorted(set(val.strip() for sublist in mentor_df["Teaching Approach"].dropna().str.split(",") for val in sublist))
 
-preferred_subjects = st.sidebar.multiselect("Preferred Subjects", all_subjects)
-target_colleges = st.sidebar.multiselect("Target Law Colleges", all_colleges)
-learning_styles = st.sidebar.multiselect("Preferred Learning Style", all_styles)
+# Apply max 2 selections to all filters
+preferred_subjects = st.sidebar.multiselect("Preferred Subjects (select up to 2)", all_subjects, max_selections=2)
+target_colleges = st.sidebar.multiselect("Target Law Colleges (select up to 2)", all_colleges, max_selections=2)
+learning_styles = st.sidebar.multiselect("Preferred Learning Style (select up to 2)", all_styles, max_selections=2)
 
 # Logic
-if st.sidebar.button("🔎 Find Mentors"):
+if st.sidebar.button("Find Mentors"):
     try:
         recommendations = recommender.recommend(preferred_subjects, target_colleges, learning_styles)
 
@@ -42,6 +43,6 @@ if st.sidebar.button("🔎 Find Mentors"):
                 use_container_width=True
             )
     except Exception as e:
-        st.error(f"❌ An error occurred while generating recommendations: {e}")
+        st.error(f"An error occurred while generating recommendations: {e}")
 else:
     st.info("Select your preferences from the sidebar and click 'Find Mentors' to get started.")
