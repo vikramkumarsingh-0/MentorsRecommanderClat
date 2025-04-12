@@ -1,0 +1,501 @@
+Mentor ID,Name,Expertise,Alma Mater,Teaching Approach,Rating
+M1,Aarav Mehta,"Torts, Constitutional Law",WBNUJS Kolkata,Interactive,4.22
+M2,Ishaan Verma,"Intellectual Property Law, Corporate Law",NLU Jodhpur,Discussion-based,3.56
+M3,Aadhya Kumar,"Contract Law, Taxation",WBNUJS Kolkata,Research-focused,3.98
+M4,Aadhya Bansal,"Taxation, Criminal Law",NALSAR Hyderabad,Case-based,4.65
+M5,Vivaan Singh,"Corporate Law, Constitutional Law",NALSAR Hyderabad,Interactive,4.54
+M6,Myra Verma,"Torts, Taxation",WBNUJS Kolkata,Case-based,4.78
+M7,Kabir Kapoor,"Corporate Law, Contract Law",NLSIU Bangalore,Interactive,3.73
+M8,Aadhya Singh,"Criminal Law, Intellectual Property Law",NALSAR Hyderabad,Case-based,3.9
+M9,Anaya Kapoor,"Corporate Law, Torts",WBNUJS Kolkata,Interactive,4.32
+M10,Myra Mehta,"Contract Law, Intellectual Property Law",NLSIU Bangalore,Case-based,4.65
+M11,Aditya Bansal,"Criminal Law, Contract Law",NALSAR Hyderabad,Case-based,4.7
+M12,Myra Joshi,"Intellectual Property Law, Torts",WBNUJS Kolkata,Research-focused,4.44
+M13,Siya Sharma,"Criminal Law, Corporate Law",NLSIU Bangalore,Discussion-based,4.42
+M14,Aadhya Mehta,"Constitutional Law, Torts",WBNUJS Kolkata,Case-based,3.82
+M15,Vivaan Mehta,"Contract Law, Criminal Law",NLU Delhi,Case-based,4.87
+M16,Vivaan Joshi,"Criminal Law, Intellectual Property Law",NALSAR Hyderabad,Discussion-based,4.52
+M17,Kabir Bansal,"Contract Law, Corporate Law",NLSIU Bangalore,Interactive,3.94
+M18,Riya Kapoor,"Torts, Contract Law",NLU Jodhpur,Interactive,4.75
+M19,Myra Joshi,"Taxation, Criminal Law",NLSIU Bangalore,Case-based,4.66
+M20,Riya Patel,"Contract Law, Taxation",NLU Jodhpur,Case-based,4.53
+M21,Siya Patel,"Intellectual Property Law, Corporate Law",NLSIU Bangalore,Research-focused,4.47
+M22,Riya Kumar,"Corporate Law, Contract Law",NALSAR Hyderabad,Research-focused,3.97
+M23,Myra Kapoor,"Criminal Law, Constitutional Law",WBNUJS Kolkata,Case-based,3.96
+M24,Ishaan Kapoor,"Contract Law, Torts",NLSIU Bangalore,Lecture-based,4.37
+M25,Anaya Kapoor,"Criminal Law, Contract Law",NLU Jodhpur,Lecture-based,4.69
+M26,Kabir Chopra,"Constitutional Law, Corporate Law",NLSIU Bangalore,Case-based,4.04
+M27,Siya Chopra,"Torts, Intellectual Property Law",NLSIU Bangalore,Case-based,4.08
+M28,Aadhya Joshi,"Constitutional Law, Torts",NLU Delhi,Discussion-based,3.96
+M29,Riya Sharma,"Taxation, Contract Law",NLSIU Bangalore,Case-based,3.59
+M30,Myra Verma,"Corporate Law, Constitutional Law",NLU Jodhpur,Interactive,4.53
+M31,Aarav Verma,"Constitutional Law, Criminal Law",NLSIU Bangalore,Lecture-based,4.79
+M32,Siya Kumar,"Intellectual Property Law, Corporate Law",NALSAR Hyderabad,Case-based,3.92
+M33,Siya Joshi,"Taxation, Contract Law",NLU Delhi,Case-based,3.55
+M34,Aditya Mehta,"Contract Law, Corporate Law",WBNUJS Kolkata,Case-based,4.11
+M35,Anaya Kapoor,"Corporate Law, Constitutional Law",NLU Delhi,Lecture-based,4.16
+M36,Riya Joshi,"Criminal Law, Taxation",NLSIU Bangalore,Case-based,3.89
+M37,Riya Kumar,"Corporate Law, Constitutional Law",WBNUJS Kolkata,Discussion-based,4.21
+M38,Myra Chopra,"Criminal Law, Constitutional Law",WBNUJS Kolkata,Research-focused,4.72
+M39,Myra Chopra,"Torts, Corporate Law",NALSAR Hyderabad,Lecture-based,4.12
+M40,Anaya Mehta,"Criminal Law, Taxation",NLU Delhi,Research-focused,4.57
+M41,Aditya Patel,"Corporate Law, Taxation",NLU Jodhpur,Interactive,4.32
+M42,Kabir Singh,"Torts, Criminal Law",NLU Jodhpur,Case-based,3.77
+M43,Siya Verma,"Torts, Taxation",NLU Jodhpur,Research-focused,4.32
+M44,Ishaan Patel,"Corporate Law, Contract Law",NLSIU Bangalore,Case-based,3.51
+M45,Ishaan Mehta,"Contract Law, Intellectual Property Law",NLU Delhi,Case-based,4.12
+M46,Riya Verma,"Taxation, Intellectual Property Law",NLU Jodhpur,Discussion-based,3.51
+M47,Myra Verma,"Taxation, Torts",NLU Delhi,Discussion-based,4.6
+M48,Ishaan Kumar,"Torts, Taxation",WBNUJS Kolkata,Lecture-based,4.88
+M49,Aadhya Verma,"Contract Law, Taxation",NLU Jodhpur,Case-based,4.5
+M50,Vivaan Singh,"Torts, Contract Law",NLU Jodhpur,Case-based,4.12
+M51,Anaya Kumar,"Criminal Law, Intellectual Property Law",NLU Delhi,Discussion-based,4.26
+M52,Siya Kapoor,"Taxation, Contract Law",WBNUJS Kolkata,Discussion-based,4.12
+M53,Myra Joshi,"Corporate Law, Torts",NALSAR Hyderabad,Interactive,4.24
+M54,Vivaan Bansal,"Criminal Law, Taxation",NLU Delhi,Discussion-based,3.72
+M55,Anaya Chopra,"Criminal Law, Constitutional Law",WBNUJS Kolkata,Interactive,4.07
+M56,Kabir Kapoor,"Intellectual Property Law, Taxation",NLU Jodhpur,Interactive,4.6
+M57,Ishaan Mehta,"Taxation, Contract Law",NALSAR Hyderabad,Interactive,3.67
+M58,Aarav Chopra,"Intellectual Property Law, Corporate Law",WBNUJS Kolkata,Case-based,4.51
+M59,Riya Patel,"Criminal Law, Corporate Law",NLSIU Bangalore,Lecture-based,4.23
+M60,Vivaan Verma,"Torts, Constitutional Law",NLU Delhi,Discussion-based,4.38
+M61,Aadhya Singh,"Corporate Law, Taxation",NLU Jodhpur,Lecture-based,4.57
+M62,Anaya Kapoor,"Constitutional Law, Intellectual Property Law",NALSAR Hyderabad,Lecture-based,3.99
+M63,Aarav Kumar,"Intellectual Property Law, Torts",NLSIU Bangalore,Lecture-based,3.76
+M64,Myra Bansal,"Taxation, Contract Law",NLU Delhi,Discussion-based,3.66
+M65,Anaya Mehta,"Contract Law, Corporate Law",NLU Delhi,Discussion-based,3.55
+M66,Riya Sharma,"Constitutional Law, Corporate Law",NLSIU Bangalore,Case-based,3.56
+M67,Vivaan Joshi,"Contract Law, Torts",WBNUJS Kolkata,Lecture-based,3.57
+M68,Aditya Chopra,"Torts, Intellectual Property Law",NALSAR Hyderabad,Interactive,4.37
+M69,Riya Bansal,"Corporate Law, Taxation",WBNUJS Kolkata,Discussion-based,4.4
+M70,Vivaan Patel,"Corporate Law, Contract Law",WBNUJS Kolkata,Case-based,4.21
+M71,Ishaan Patel,"Corporate Law, Criminal Law",NALSAR Hyderabad,Interactive,3.51
+M72,Aditya Mehta,"Taxation, Contract Law",NALSAR Hyderabad,Case-based,4.47
+M73,Aarav Joshi,"Criminal Law, Corporate Law",NALSAR Hyderabad,Research-focused,3.67
+M74,Anaya Kumar,"Contract Law, Criminal Law",NALSAR Hyderabad,Research-focused,3.53
+M75,Aditya Chopra,"Torts, Intellectual Property Law",NLSIU Bangalore,Lecture-based,4.66
+M76,Anaya Kapoor,"Contract Law, Taxation",NLSIU Bangalore,Research-focused,4.98
+M77,Ishaan Kumar,"Torts, Criminal Law",NALSAR Hyderabad,Research-focused,4.57
+M78,Myra Sharma,"Criminal Law, Taxation",NLSIU Bangalore,Research-focused,4.9
+M79,Riya Verma,"Contract Law, Corporate Law",NALSAR Hyderabad,Case-based,3.86
+M80,Kabir Chopra,"Constitutional Law, Taxation",WBNUJS Kolkata,Research-focused,4.95
+M81,Kabir Joshi,"Taxation, Corporate Law",NLU Delhi,Research-focused,3.57
+M82,Siya Kumar,"Torts, Contract Law",WBNUJS Kolkata,Interactive,4.95
+M83,Siya Joshi,"Corporate Law, Taxation",NLSIU Bangalore,Lecture-based,4.14
+M84,Aadhya Joshi,"Intellectual Property Law, Torts",NLSIU Bangalore,Lecture-based,4.95
+M85,Kabir Chopra,"Intellectual Property Law, Torts",NALSAR Hyderabad,Research-focused,4.91
+M86,Kabir Bansal,"Taxation, Intellectual Property Law",NLU Delhi,Interactive,4.9
+M87,Aditya Chopra,"Intellectual Property Law, Torts",NLSIU Bangalore,Interactive,4.16
+M88,Vivaan Kumar,"Torts, Taxation",NLU Delhi,Interactive,4.21
+M89,Riya Sharma,"Criminal Law, Intellectual Property Law",WBNUJS Kolkata,Interactive,4.61
+M90,Vivaan Sharma,"Corporate Law, Taxation",NLU Delhi,Case-based,3.78
+M91,Aadhya Singh,"Taxation, Contract Law",NALSAR Hyderabad,Interactive,4.35
+M92,Riya Joshi,"Constitutional Law, Torts",NLU Delhi,Case-based,4.92
+M93,Riya Singh,"Criminal Law, Torts",NLU Jodhpur,Research-focused,4.92
+M94,Anaya Bansal,"Torts, Constitutional Law",WBNUJS Kolkata,Interactive,4.1
+M95,Aarav Kumar,"Contract Law, Intellectual Property Law",NLSIU Bangalore,Interactive,4.33
+M96,Vivaan Mehta,"Torts, Corporate Law",NLU Delhi,Discussion-based,4.68
+M97,Ishaan Singh,"Torts, Taxation",NLSIU Bangalore,Discussion-based,4.69
+M98,Aditya Patel,"Corporate Law, Contract Law",NLSIU Bangalore,Interactive,3.88
+M99,Myra Kumar,"Intellectual Property Law, Torts",NLU Delhi,Discussion-based,4.71
+M100,Aadhya Sharma,"Corporate Law, Torts",NLU Jodhpur,Interactive,4.35
+M101,Aadhya Chopra,"Criminal Law, Torts",NLU Delhi,Discussion-based,4.87
+M102,Kabir Mehta,"Corporate Law, Constitutional Law",WBNUJS Kolkata,Case-based,3.74
+M103,Aditya Kumar,"Contract Law, Constitutional Law",NLSIU Bangalore,Interactive,4.29
+M104,Vivaan Kapoor,"Corporate Law, Torts",NLSIU Bangalore,Case-based,4.0
+M105,Ishaan Singh,"Constitutional Law, Corporate Law",NLU Delhi,Case-based,4.9
+M106,Ishaan Joshi,"Criminal Law, Corporate Law",NLU Jodhpur,Research-focused,4.55
+M107,Myra Patel,"Taxation, Criminal Law",NLSIU Bangalore,Research-focused,4.15
+M108,Myra Kapoor,"Torts, Criminal Law",NLU Delhi,Research-focused,3.58
+M109,Riya Mehta,"Taxation, Corporate Law",NLSIU Bangalore,Discussion-based,4.56
+M110,Myra Sharma,"Corporate Law, Taxation",WBNUJS Kolkata,Case-based,4.28
+M111,Aadhya Patel,"Intellectual Property Law, Constitutional Law",NLU Delhi,Lecture-based,4.06
+M112,Aarav Patel,"Torts, Corporate Law",NLU Jodhpur,Case-based,3.7
+M113,Kabir Kumar,"Criminal Law, Constitutional Law",NLU Jodhpur,Lecture-based,4.34
+M114,Siya Patel,"Contract Law, Taxation",NLU Jodhpur,Research-focused,3.53
+M115,Riya Singh,"Intellectual Property Law, Criminal Law",NLU Delhi,Lecture-based,3.78
+M116,Aadhya Patel,"Contract Law, Taxation",NLSIU Bangalore,Lecture-based,3.96
+M117,Siya Mehta,"Criminal Law, Constitutional Law",NLU Jodhpur,Research-focused,3.75
+M118,Anaya Kumar,"Taxation, Criminal Law",WBNUJS Kolkata,Case-based,4.65
+M119,Ishaan Sharma,"Corporate Law, Contract Law",NLU Delhi,Discussion-based,3.6
+M120,Vivaan Verma,"Intellectual Property Law, Criminal Law",NLU Delhi,Discussion-based,4.97
+M121,Aarav Kumar,"Constitutional Law, Taxation",NALSAR Hyderabad,Discussion-based,3.97
+M122,Ishaan Bansal,"Taxation, Intellectual Property Law",NALSAR Hyderabad,Lecture-based,3.51
+M123,Aadhya Patel,"Contract Law, Criminal Law",NLU Jodhpur,Discussion-based,4.46
+M124,Kabir Kapoor,"Intellectual Property Law, Torts",NALSAR Hyderabad,Case-based,4.8
+M125,Aarav Joshi,"Criminal Law, Torts",NLSIU Bangalore,Lecture-based,4.4
+M126,Myra Singh,"Taxation, Constitutional Law",WBNUJS Kolkata,Case-based,4.97
+M127,Kabir Singh,"Intellectual Property Law, Criminal Law",WBNUJS Kolkata,Interactive,3.77
+M128,Vivaan Patel,"Criminal Law, Taxation",NLSIU Bangalore,Research-focused,4.26
+M129,Aarav Bansal,"Corporate Law, Constitutional Law",NLU Jodhpur,Lecture-based,4.04
+M130,Anaya Verma,"Criminal Law, Constitutional Law",NALSAR Hyderabad,Lecture-based,4.09
+M131,Ishaan Bansal,"Constitutional Law, Torts",NLSIU Bangalore,Interactive,4.85
+M132,Ishaan Kumar,"Torts, Constitutional Law",NLSIU Bangalore,Lecture-based,4.85
+M133,Anaya Sharma,"Taxation, Contract Law",NLSIU Bangalore,Discussion-based,4.59
+M134,Riya Singh,"Corporate Law, Intellectual Property Law",WBNUJS Kolkata,Interactive,4.16
+M135,Siya Verma,"Taxation, Criminal Law",NLU Delhi,Interactive,4.96
+M136,Aditya Sharma,"Taxation, Torts",NLSIU Bangalore,Interactive,4.86
+M137,Myra Singh,"Taxation, Criminal Law",NLU Jodhpur,Lecture-based,4.66
+M138,Siya Bansal,"Torts, Corporate Law",NLU Jodhpur,Lecture-based,4.23
+M139,Riya Mehta,"Taxation, Intellectual Property Law",NLU Jodhpur,Research-focused,4.97
+M140,Kabir Kumar,"Taxation, Torts",NLSIU Bangalore,Research-focused,3.73
+M141,Aadhya Bansal,"Corporate Law, Constitutional Law",NLU Delhi,Research-focused,4.35
+M142,Ishaan Joshi,"Intellectual Property Law, Constitutional Law",NALSAR Hyderabad,Discussion-based,3.65
+M143,Riya Chopra,"Criminal Law, Corporate Law",NLU Jodhpur,Discussion-based,4.64
+M144,Vivaan Joshi,"Torts, Constitutional Law",NLSIU Bangalore,Interactive,3.69
+M145,Vivaan Joshi,"Constitutional Law, Taxation",NALSAR Hyderabad,Research-focused,3.75
+M146,Anaya Patel,"Contract Law, Torts",NLU Delhi,Lecture-based,4.83
+M147,Aditya Mehta,"Torts, Intellectual Property Law",NLU Jodhpur,Discussion-based,4.53
+M148,Aadhya Singh,"Contract Law, Intellectual Property Law",NLSIU Bangalore,Discussion-based,4.02
+M149,Aditya Sharma,"Corporate Law, Constitutional Law",NLSIU Bangalore,Lecture-based,4.61
+M150,Aarav Singh,"Constitutional Law, Intellectual Property Law",NLU Jodhpur,Case-based,3.6
+M151,Kabir Verma,"Taxation, Criminal Law",NLU Jodhpur,Case-based,4.52
+M152,Ishaan Patel,"Corporate Law, Contract Law",NALSAR Hyderabad,Research-focused,4.59
+M153,Anaya Kapoor,"Intellectual Property Law, Contract Law",NLU Delhi,Interactive,4.16
+M154,Riya Sharma,"Corporate Law, Torts",NLSIU Bangalore,Case-based,4.25
+M155,Myra Singh,"Corporate Law, Torts",NLSIU Bangalore,Research-focused,4.12
+M156,Myra Kumar,"Contract Law, Intellectual Property Law",NLU Delhi,Case-based,4.22
+M157,Siya Kumar,"Corporate Law, Torts",NLU Delhi,Interactive,4.38
+M158,Aditya Kumar,"Torts, Corporate Law",NLU Jodhpur,Research-focused,4.54
+M159,Vivaan Joshi,"Contract Law, Criminal Law",WBNUJS Kolkata,Research-focused,3.98
+M160,Siya Kumar,"Torts, Taxation",NLU Jodhpur,Research-focused,3.64
+M161,Riya Kumar,"Corporate Law, Constitutional Law",NLU Delhi,Interactive,4.05
+M162,Vivaan Bansal,"Intellectual Property Law, Torts",NALSAR Hyderabad,Discussion-based,4.3
+M163,Aarav Sharma,"Corporate Law, Criminal Law",NLSIU Bangalore,Interactive,3.96
+M164,Ishaan Kapoor,"Constitutional Law, Intellectual Property Law",NLSIU Bangalore,Lecture-based,4.56
+M165,Aadhya Patel,"Taxation, Criminal Law",NLU Jodhpur,Discussion-based,4.23
+M166,Riya Sharma,"Contract Law, Taxation",NALSAR Hyderabad,Interactive,4.54
+M167,Aditya Singh,"Contract Law, Taxation",NLSIU Bangalore,Case-based,4.06
+M168,Siya Chopra,"Constitutional Law, Intellectual Property Law",NLSIU Bangalore,Lecture-based,4.32
+M169,Myra Chopra,"Torts, Constitutional Law",NLSIU Bangalore,Case-based,4.99
+M170,Ishaan Mehta,"Criminal Law, Intellectual Property Law",NALSAR Hyderabad,Lecture-based,4.83
+M171,Myra Chopra,"Torts, Taxation",NLSIU Bangalore,Lecture-based,4.17
+M172,Siya Verma,"Contract Law, Intellectual Property Law",WBNUJS Kolkata,Case-based,3.53
+M173,Aarav Patel,"Corporate Law, Taxation",NLSIU Bangalore,Discussion-based,4.46
+M174,Siya Kumar,"Intellectual Property Law, Constitutional Law",WBNUJS Kolkata,Research-focused,4.34
+M175,Anaya Bansal,"Contract Law, Intellectual Property Law",NLU Delhi,Case-based,4.38
+M176,Anaya Verma,"Torts, Intellectual Property Law",NLU Delhi,Case-based,4.32
+M177,Siya Chopra,"Corporate Law, Contract Law",NALSAR Hyderabad,Lecture-based,4.73
+M178,Aadhya Patel,"Contract Law, Intellectual Property Law",NLU Delhi,Interactive,4.59
+M179,Riya Chopra,"Contract Law, Corporate Law",WBNUJS Kolkata,Research-focused,4.73
+M180,Kabir Verma,"Corporate Law, Constitutional Law",NALSAR Hyderabad,Discussion-based,4.57
+M181,Aditya Patel,"Torts, Criminal Law",NLSIU Bangalore,Case-based,3.77
+M182,Aarav Mehta,"Constitutional Law, Torts",NLU Jodhpur,Interactive,4.95
+M183,Ishaan Kapoor,"Taxation, Constitutional Law",NLU Delhi,Case-based,4.96
+M184,Ishaan Kapoor,"Criminal Law, Torts",WBNUJS Kolkata,Lecture-based,4.22
+M185,Vivaan Kapoor,"Torts, Contract Law",NLSIU Bangalore,Research-focused,4.81
+M186,Myra Bansal,"Torts, Intellectual Property Law",NLSIU Bangalore,Research-focused,4.89
+M187,Vivaan Joshi,"Intellectual Property Law, Contract Law",NLU Jodhpur,Lecture-based,4.86
+M188,Anaya Joshi,"Constitutional Law, Torts",NLSIU Bangalore,Discussion-based,3.7
+M189,Ishaan Chopra,"Torts, Intellectual Property Law",WBNUJS Kolkata,Lecture-based,3.93
+M190,Myra Patel,"Torts, Constitutional Law",NLU Jodhpur,Interactive,3.61
+M191,Ishaan Sharma,"Constitutional Law, Intellectual Property Law",NLU Jodhpur,Interactive,4.8
+M192,Anaya Singh,"Constitutional Law, Corporate Law",NLU Delhi,Interactive,3.81
+M193,Vivaan Mehta,"Taxation, Intellectual Property Law",NLU Delhi,Interactive,4.77
+M194,Anaya Verma,"Criminal Law, Taxation",WBNUJS Kolkata,Lecture-based,4.21
+M195,Aarav Singh,"Torts, Constitutional Law",NALSAR Hyderabad,Interactive,4.27
+M196,Siya Chopra,"Taxation, Corporate Law",NALSAR Hyderabad,Lecture-based,4.66
+M197,Kabir Singh,"Intellectual Property Law, Contract Law",NLU Delhi,Lecture-based,4.57
+M198,Siya Chopra,"Corporate Law, Torts",NLSIU Bangalore,Discussion-based,3.83
+M199,Kabir Joshi,"Constitutional Law, Criminal Law",NLU Delhi,Lecture-based,3.79
+M200,Siya Singh,"Criminal Law, Torts",WBNUJS Kolkata,Research-focused,3.99
+M201,Riya Verma,"Corporate Law, Contract Law",WBNUJS Kolkata,Case-based,4.79
+M202,Vivaan Kumar,"Intellectual Property Law, Constitutional Law",NLU Jodhpur,Case-based,4.33
+M203,Anaya Joshi,"Constitutional Law, Contract Law",NALSAR Hyderabad,Lecture-based,4.63
+M204,Siya Kapoor,"Contract Law, Criminal Law",NLSIU Bangalore,Research-focused,3.52
+M205,Aarav Mehta,"Taxation, Torts",NALSAR Hyderabad,Discussion-based,4.71
+M206,Riya Bansal,"Contract Law, Constitutional Law",NLU Jodhpur,Discussion-based,4.13
+M207,Aditya Bansal,"Contract Law, Criminal Law",NLSIU Bangalore,Discussion-based,3.65
+M208,Aadhya Patel,"Torts, Criminal Law",NLU Jodhpur,Lecture-based,3.84
+M209,Riya Chopra,"Torts, Corporate Law",NLU Jodhpur,Case-based,4.8
+M210,Ishaan Sharma,"Taxation, Intellectual Property Law",NALSAR Hyderabad,Research-focused,4.17
+M211,Riya Singh,"Taxation, Constitutional Law",NLSIU Bangalore,Research-focused,4.18
+M212,Aditya Kapoor,"Torts, Constitutional Law",NLU Jodhpur,Research-focused,3.88
+M213,Riya Kumar,"Taxation, Criminal Law",NLU Delhi,Interactive,3.78
+M214,Vivaan Bansal,"Contract Law, Corporate Law",WBNUJS Kolkata,Lecture-based,3.66
+M215,Aarav Mehta,"Contract Law, Constitutional Law",WBNUJS Kolkata,Lecture-based,4.67
+M216,Ishaan Sharma,"Corporate Law, Contract Law",WBNUJS Kolkata,Interactive,4.27
+M217,Vivaan Singh,"Corporate Law, Torts",NLU Delhi,Case-based,3.83
+M218,Siya Kapoor,"Intellectual Property Law, Torts",NLU Jodhpur,Discussion-based,4.06
+M219,Aadhya Patel,"Contract Law, Criminal Law",NLU Delhi,Research-focused,4.99
+M220,Aadhya Bansal,"Torts, Contract Law",NLU Jodhpur,Discussion-based,4.12
+M221,Vivaan Bansal,"Constitutional Law, Intellectual Property Law",NLSIU Bangalore,Lecture-based,4.27
+M222,Anaya Singh,"Criminal Law, Constitutional Law",NALSAR Hyderabad,Research-focused,3.6
+M223,Riya Sharma,"Taxation, Criminal Law",NLSIU Bangalore,Interactive,3.74
+M224,Siya Verma,"Corporate Law, Constitutional Law",WBNUJS Kolkata,Research-focused,4.46
+M225,Kabir Verma,"Intellectual Property Law, Taxation",NLSIU Bangalore,Lecture-based,3.82
+M226,Aarav Singh,"Taxation, Intellectual Property Law",NLU Delhi,Discussion-based,3.95
+M227,Anaya Kapoor,"Contract Law, Corporate Law",NLU Delhi,Research-focused,4.74
+M228,Riya Patel,"Torts, Intellectual Property Law",NLU Delhi,Research-focused,3.9
+M229,Aarav Patel,"Corporate Law, Torts",NLU Delhi,Lecture-based,4.95
+M230,Ishaan Kapoor,"Intellectual Property Law, Constitutional Law",NLU Jodhpur,Interactive,4.52
+M231,Aditya Mehta,"Contract Law, Intellectual Property Law",NLU Jodhpur,Discussion-based,4.87
+M232,Kabir Sharma,"Torts, Contract Law",NLU Delhi,Research-focused,4.85
+M233,Siya Sharma,"Torts, Corporate Law",NLU Delhi,Discussion-based,4.19
+M234,Ishaan Kumar,"Corporate Law, Intellectual Property Law",NLU Jodhpur,Discussion-based,4.07
+M235,Kabir Bansal,"Taxation, Intellectual Property Law",NLSIU Bangalore,Case-based,4.95
+M236,Anaya Kumar,"Criminal Law, Intellectual Property Law",WBNUJS Kolkata,Research-focused,4.56
+M237,Aadhya Sharma,"Torts, Intellectual Property Law",NLSIU Bangalore,Discussion-based,4.52
+M238,Aadhya Sharma,"Corporate Law, Torts",WBNUJS Kolkata,Case-based,3.92
+M239,Kabir Sharma,"Corporate Law, Criminal Law",WBNUJS Kolkata,Discussion-based,4.25
+M240,Anaya Kumar,"Contract Law, Torts",NLSIU Bangalore,Lecture-based,3.53
+M241,Aarav Verma,"Criminal Law, Corporate Law",NLSIU Bangalore,Lecture-based,3.71
+M242,Myra Mehta,"Contract Law, Torts",NLSIU Bangalore,Lecture-based,4.86
+M243,Aarav Kapoor,"Corporate Law, Torts",NALSAR Hyderabad,Discussion-based,4.05
+M244,Aadhya Patel,"Corporate Law, Contract Law",NALSAR Hyderabad,Discussion-based,4.85
+M245,Kabir Kapoor,"Contract Law, Torts",NALSAR Hyderabad,Lecture-based,3.89
+M246,Aditya Verma,"Intellectual Property Law, Corporate Law",NLU Delhi,Discussion-based,4.52
+M247,Myra Patel,"Criminal Law, Torts",WBNUJS Kolkata,Interactive,3.67
+M248,Aarav Chopra,"Constitutional Law, Intellectual Property Law",NALSAR Hyderabad,Interactive,4.65
+M249,Kabir Mehta,"Contract Law, Constitutional Law",NLU Jodhpur,Case-based,4.53
+M250,Kabir Chopra,"Constitutional Law, Torts",NLU Delhi,Case-based,4.82
+M251,Aditya Kapoor,"Taxation, Criminal Law",NLU Jodhpur,Case-based,4.3
+M252,Kabir Mehta,"Constitutional Law, Contract Law",WBNUJS Kolkata,Interactive,4.22
+M253,Aditya Joshi,"Corporate Law, Torts",NLU Jodhpur,Interactive,4.27
+M254,Aditya Verma,"Criminal Law, Corporate Law",NLU Jodhpur,Interactive,4.49
+M255,Myra Kapoor,"Contract Law, Torts",NALSAR Hyderabad,Interactive,3.94
+M256,Siya Verma,"Torts, Intellectual Property Law",NLU Jodhpur,Interactive,4.29
+M257,Vivaan Kapoor,"Corporate Law, Contract Law",NLU Jodhpur,Discussion-based,4.98
+M258,Siya Sharma,"Contract Law, Corporate Law",NLU Delhi,Discussion-based,4.51
+M259,Aarav Patel,"Taxation, Constitutional Law",WBNUJS Kolkata,Lecture-based,4.42
+M260,Anaya Singh,"Torts, Corporate Law",NALSAR Hyderabad,Interactive,4.88
+M261,Myra Joshi,"Criminal Law, Corporate Law",NLU Delhi,Discussion-based,4.39
+M262,Kabir Kumar,"Corporate Law, Constitutional Law",NALSAR Hyderabad,Lecture-based,4.25
+M263,Riya Sharma,"Criminal Law, Torts",NLSIU Bangalore,Lecture-based,4.79
+M264,Ishaan Verma,"Constitutional Law, Contract Law",NLU Jodhpur,Research-focused,3.95
+M265,Aditya Chopra,"Intellectual Property Law, Criminal Law",NLSIU Bangalore,Case-based,4.79
+M266,Vivaan Singh,"Contract Law, Corporate Law",WBNUJS Kolkata,Lecture-based,4.58
+M267,Riya Kumar,"Torts, Contract Law",NLU Delhi,Research-focused,4.7
+M268,Ishaan Patel,"Constitutional Law, Intellectual Property Law",WBNUJS Kolkata,Lecture-based,4.98
+M269,Ishaan Singh,"Constitutional Law, Intellectual Property Law",NLU Jodhpur,Research-focused,3.66
+M270,Myra Mehta,"Criminal Law, Intellectual Property Law",NLU Jodhpur,Lecture-based,3.75
+M271,Ishaan Sharma,"Taxation, Intellectual Property Law",NLU Jodhpur,Interactive,4.36
+M272,Vivaan Sharma,"Contract Law, Taxation",WBNUJS Kolkata,Case-based,4.74
+M273,Vivaan Joshi,"Contract Law, Torts",NLU Jodhpur,Interactive,3.72
+M274,Kabir Singh,"Constitutional Law, Corporate Law",WBNUJS Kolkata,Discussion-based,4.29
+M275,Siya Mehta,"Contract Law, Corporate Law",NLU Jodhpur,Research-focused,4.91
+M276,Aditya Chopra,"Contract Law, Criminal Law",NLU Jodhpur,Interactive,4.44
+M277,Aadhya Kapoor,"Taxation, Contract Law",NLU Delhi,Research-focused,4.47
+M278,Siya Bansal,"Contract Law, Torts",NALSAR Hyderabad,Interactive,4.9
+M279,Aadhya Kumar,"Taxation, Torts",NLU Delhi,Lecture-based,4.3
+M280,Ishaan Verma,"Corporate Law, Constitutional Law",WBNUJS Kolkata,Discussion-based,4.28
+M281,Aadhya Kapoor,"Corporate Law, Contract Law",WBNUJS Kolkata,Research-focused,3.88
+M282,Riya Singh,"Constitutional Law, Criminal Law",NLU Delhi,Case-based,4.53
+M283,Siya Joshi,"Constitutional Law, Criminal Law",WBNUJS Kolkata,Interactive,4.81
+M284,Riya Sharma,"Corporate Law, Intellectual Property Law",WBNUJS Kolkata,Case-based,4.36
+M285,Aadhya Mehta,"Taxation, Torts",NLSIU Bangalore,Case-based,4.59
+M286,Siya Sharma,"Taxation, Torts",WBNUJS Kolkata,Case-based,4.73
+M287,Vivaan Chopra,"Taxation, Contract Law",NALSAR Hyderabad,Research-focused,4.84
+M288,Aarav Joshi,"Taxation, Criminal Law",NLU Jodhpur,Research-focused,4.0
+M289,Aditya Patel,"Contract Law, Criminal Law",NLU Delhi,Interactive,3.56
+M290,Aadhya Mehta,"Criminal Law, Corporate Law",NLU Delhi,Discussion-based,3.83
+M291,Riya Bansal,"Taxation, Corporate Law",NLU Delhi,Lecture-based,4.49
+M292,Kabir Sharma,"Contract Law, Corporate Law",NLSIU Bangalore,Lecture-based,3.6
+M293,Ishaan Joshi,"Criminal Law, Corporate Law",NLSIU Bangalore,Research-focused,4.53
+M294,Riya Kapoor,"Taxation, Constitutional Law",NLSIU Bangalore,Case-based,4.85
+M295,Myra Bansal,"Constitutional Law, Contract Law",WBNUJS Kolkata,Lecture-based,4.68
+M296,Riya Sharma,"Taxation, Intellectual Property Law",NLSIU Bangalore,Case-based,4.93
+M297,Myra Verma,"Criminal Law, Taxation",NLSIU Bangalore,Research-focused,4.29
+M298,Riya Patel,"Constitutional Law, Taxation",NLU Jodhpur,Research-focused,3.62
+M299,Kabir Chopra,"Intellectual Property Law, Contract Law",NLU Delhi,Lecture-based,4.49
+M300,Aarav Verma,"Contract Law, Corporate Law",NALSAR Hyderabad,Lecture-based,4.53
+M301,Aditya Chopra,"Taxation, Intellectual Property Law",NLSIU Bangalore,Interactive,4.73
+M302,Kabir Bansal,"Constitutional Law, Corporate Law",NLU Jodhpur,Lecture-based,4.73
+M303,Ishaan Sharma,"Torts, Criminal Law",NLU Delhi,Case-based,4.73
+M304,Ishaan Sharma,"Torts, Constitutional Law",NALSAR Hyderabad,Interactive,4.49
+M305,Aadhya Kumar,"Contract Law, Criminal Law",NLU Delhi,Research-focused,4.05
+M306,Siya Joshi,"Contract Law, Taxation",WBNUJS Kolkata,Case-based,3.86
+M307,Ishaan Singh,"Criminal Law, Corporate Law",WBNUJS Kolkata,Discussion-based,4.79
+M308,Riya Chopra,"Constitutional Law, Taxation",NLSIU Bangalore,Discussion-based,3.93
+M309,Aditya Kumar,"Criminal Law, Contract Law",NALSAR Hyderabad,Case-based,4.73
+M310,Siya Kumar,"Contract Law, Constitutional Law",NLSIU Bangalore,Research-focused,3.53
+M311,Siya Sharma,"Contract Law, Taxation",NLSIU Bangalore,Case-based,4.15
+M312,Siya Kapoor,"Taxation, Torts",NALSAR Hyderabad,Discussion-based,4.81
+M313,Anaya Verma,"Constitutional Law, Taxation",NLSIU Bangalore,Research-focused,4.63
+M314,Myra Patel,"Corporate Law, Taxation",NLU Delhi,Discussion-based,3.85
+M315,Vivaan Mehta,"Corporate Law, Criminal Law",WBNUJS Kolkata,Research-focused,4.97
+M316,Siya Verma,"Contract Law, Taxation",NLSIU Bangalore,Interactive,4.68
+M317,Anaya Patel,"Contract Law, Criminal Law",NLU Delhi,Research-focused,3.91
+M318,Riya Chopra,"Constitutional Law, Criminal Law",NLU Delhi,Case-based,4.88
+M319,Riya Patel,"Constitutional Law, Criminal Law",NALSAR Hyderabad,Interactive,4.3
+M320,Kabir Mehta,"Constitutional Law, Corporate Law",NLU Delhi,Discussion-based,4.79
+M321,Ishaan Bansal,"Torts, Intellectual Property Law",NALSAR Hyderabad,Case-based,4.73
+M322,Myra Kumar,"Contract Law, Criminal Law",NLU Delhi,Case-based,3.57
+M323,Myra Singh,"Torts, Criminal Law",NALSAR Hyderabad,Discussion-based,4.55
+M324,Aditya Singh,"Criminal Law, Taxation",WBNUJS Kolkata,Interactive,4.12
+M325,Aditya Chopra,"Corporate Law, Contract Law",NALSAR Hyderabad,Research-focused,3.78
+M326,Anaya Joshi,"Corporate Law, Constitutional Law",NLSIU Bangalore,Discussion-based,4.73
+M327,Anaya Verma,"Torts, Criminal Law",WBNUJS Kolkata,Discussion-based,4.4
+M328,Aarav Kumar,"Contract Law, Corporate Law",NLU Delhi,Lecture-based,4.45
+M329,Aarav Verma,"Intellectual Property Law, Torts",NLSIU Bangalore,Interactive,3.9
+M330,Vivaan Mehta,"Criminal Law, Taxation",NLU Jodhpur,Research-focused,4.65
+M331,Riya Chopra,"Constitutional Law, Contract Law",NLU Delhi,Case-based,3.75
+M332,Kabir Singh,"Corporate Law, Torts",NLSIU Bangalore,Interactive,4.28
+M333,Aditya Chopra,"Torts, Corporate Law",NLU Delhi,Interactive,3.67
+M334,Myra Kapoor,"Criminal Law, Torts",WBNUJS Kolkata,Lecture-based,4.55
+M335,Aarav Sharma,"Intellectual Property Law, Corporate Law",NLU Delhi,Research-focused,3.76
+M336,Aditya Sharma,"Constitutional Law, Criminal Law",NLSIU Bangalore,Discussion-based,4.52
+M337,Siya Kumar,"Torts, Corporate Law",NALSAR Hyderabad,Research-focused,4.55
+M338,Aarav Chopra,"Criminal Law, Intellectual Property Law",NLU Delhi,Case-based,3.78
+M339,Kabir Kapoor,"Torts, Contract Law",WBNUJS Kolkata,Case-based,4.34
+M340,Ishaan Joshi,"Corporate Law, Intellectual Property Law",NLSIU Bangalore,Case-based,4.03
+M341,Siya Kumar,"Intellectual Property Law, Constitutional Law",NLSIU Bangalore,Research-focused,4.34
+M342,Riya Patel,"Constitutional Law, Contract Law",WBNUJS Kolkata,Research-focused,4.31
+M343,Anaya Kapoor,"Criminal Law, Intellectual Property Law",NALSAR Hyderabad,Research-focused,4.52
+M344,Siya Verma,"Taxation, Intellectual Property Law",NLSIU Bangalore,Discussion-based,3.59
+M345,Vivaan Chopra,"Torts, Contract Law",NLU Jodhpur,Case-based,4.61
+M346,Riya Patel,"Torts, Corporate Law",NLSIU Bangalore,Research-focused,4.76
+M347,Aadhya Singh,"Torts, Constitutional Law",NLSIU Bangalore,Interactive,4.52
+M348,Aarav Patel,"Corporate Law, Contract Law",WBNUJS Kolkata,Research-focused,3.55
+M349,Aarav Kapoor,"Criminal Law, Taxation",NLU Jodhpur,Research-focused,3.79
+M350,Anaya Chopra,"Corporate Law, Intellectual Property Law",NLU Delhi,Case-based,4.79
+M351,Siya Singh,"Criminal Law, Torts",NLU Delhi,Research-focused,4.84
+M352,Myra Singh,"Intellectual Property Law, Corporate Law",NLU Delhi,Interactive,4.85
+M353,Kabir Verma,"Corporate Law, Contract Law",WBNUJS Kolkata,Interactive,4.35
+M354,Siya Singh,"Corporate Law, Intellectual Property Law",WBNUJS Kolkata,Lecture-based,4.4
+M355,Riya Bansal,"Constitutional Law, Intellectual Property Law",WBNUJS Kolkata,Research-focused,4.12
+M356,Riya Joshi,"Criminal Law, Intellectual Property Law",NLU Delhi,Discussion-based,4.3
+M357,Aarav Patel,"Torts, Intellectual Property Law",NALSAR Hyderabad,Interactive,3.89
+M358,Aarav Joshi,"Constitutional Law, Intellectual Property Law",WBNUJS Kolkata,Interactive,4.2
+M359,Riya Singh,"Torts, Criminal Law",NALSAR Hyderabad,Case-based,4.79
+M360,Aarav Verma,"Contract Law, Intellectual Property Law",WBNUJS Kolkata,Case-based,4.18
+M361,Myra Singh,"Taxation, Torts",NLSIU Bangalore,Research-focused,4.67
+M362,Anaya Joshi,"Taxation, Corporate Law",WBNUJS Kolkata,Lecture-based,3.69
+M363,Myra Chopra,"Corporate Law, Constitutional Law",WBNUJS Kolkata,Case-based,4.43
+M364,Siya Verma,"Torts, Taxation",WBNUJS Kolkata,Case-based,3.87
+M365,Siya Verma,"Taxation, Constitutional Law",NALSAR Hyderabad,Research-focused,4.99
+M366,Siya Bansal,"Criminal Law, Corporate Law",NLSIU Bangalore,Research-focused,3.56
+M367,Myra Kumar,"Taxation, Contract Law",NLSIU Bangalore,Interactive,4.49
+M368,Anaya Joshi,"Contract Law, Torts",NLSIU Bangalore,Research-focused,3.91
+M369,Ishaan Bansal,"Torts, Contract Law",NLU Delhi,Interactive,4.44
+M370,Riya Patel,"Intellectual Property Law, Corporate Law",NLU Jodhpur,Research-focused,4.51
+M371,Anaya Bansal,"Contract Law, Constitutional Law",NALSAR Hyderabad,Discussion-based,3.65
+M372,Aditya Verma,"Intellectual Property Law, Torts",NALSAR Hyderabad,Lecture-based,4.92
+M373,Aadhya Patel,"Criminal Law, Intellectual Property Law",NLU Delhi,Discussion-based,4.87
+M374,Myra Mehta,"Contract Law, Torts",NLSIU Bangalore,Lecture-based,3.87
+M375,Vivaan Verma,"Taxation, Intellectual Property Law",NALSAR Hyderabad,Research-focused,3.71
+M376,Anaya Patel,"Taxation, Contract Law",WBNUJS Kolkata,Case-based,4.65
+M377,Aditya Kapoor,"Corporate Law, Constitutional Law",NLSIU Bangalore,Interactive,4.27
+M378,Aarav Kapoor,"Constitutional Law, Torts",NLU Jodhpur,Research-focused,4.58
+M379,Riya Patel,"Criminal Law, Constitutional Law",NLU Jodhpur,Lecture-based,3.91
+M380,Vivaan Kapoor,"Corporate Law, Criminal Law",NALSAR Hyderabad,Discussion-based,3.83
+M381,Aarav Kapoor,"Taxation, Criminal Law",NLU Delhi,Case-based,3.59
+M382,Aarav Chopra,"Contract Law, Constitutional Law",NLU Jodhpur,Discussion-based,3.59
+M383,Siya Bansal,"Torts, Contract Law",WBNUJS Kolkata,Interactive,4.21
+M384,Myra Patel,"Contract Law, Corporate Law",NLSIU Bangalore,Interactive,4.53
+M385,Riya Sharma,"Taxation, Corporate Law",NLU Jodhpur,Interactive,4.54
+M386,Myra Kumar,"Torts, Intellectual Property Law",NLU Jodhpur,Research-focused,4.37
+M387,Aarav Sharma,"Taxation, Torts",NLU Jodhpur,Research-focused,3.55
+M388,Kabir Chopra,"Corporate Law, Constitutional Law",NALSAR Hyderabad,Case-based,4.78
+M389,Siya Singh,"Criminal Law, Constitutional Law",NLU Delhi,Interactive,4.3
+M390,Myra Singh,"Corporate Law, Constitutional Law",WBNUJS Kolkata,Lecture-based,3.65
+M391,Aditya Sharma,"Intellectual Property Law, Criminal Law",WBNUJS Kolkata,Case-based,4.79
+M392,Myra Verma,"Corporate Law, Constitutional Law",NLU Delhi,Lecture-based,4.87
+M393,Kabir Bansal,"Corporate Law, Taxation",NALSAR Hyderabad,Discussion-based,3.91
+M394,Aarav Chopra,"Intellectual Property Law, Criminal Law",NLU Jodhpur,Lecture-based,4.62
+M395,Ishaan Singh,"Corporate Law, Constitutional Law",NALSAR Hyderabad,Research-focused,4.8
+M396,Aditya Verma,"Criminal Law, Constitutional Law",NLU Jodhpur,Case-based,4.84
+M397,Kabir Patel,"Torts, Contract Law",NLSIU Bangalore,Discussion-based,3.66
+M398,Ishaan Singh,"Constitutional Law, Corporate Law",NLSIU Bangalore,Discussion-based,3.76
+M399,Siya Kapoor,"Constitutional Law, Contract Law",WBNUJS Kolkata,Research-focused,4.98
+M400,Kabir Chopra,"Contract Law, Taxation",NALSAR Hyderabad,Case-based,4.12
+M401,Aditya Mehta,"Corporate Law, Taxation",NALSAR Hyderabad,Research-focused,4.09
+M402,Aditya Mehta,"Torts, Corporate Law",NLSIU Bangalore,Discussion-based,4.89
+M403,Anaya Singh,"Contract Law, Constitutional Law",NLU Jodhpur,Discussion-based,3.52
+M404,Anaya Verma,"Criminal Law, Contract Law",NALSAR Hyderabad,Discussion-based,4.48
+M405,Aarav Singh,"Contract Law, Criminal Law",NLU Jodhpur,Research-focused,4.82
+M406,Anaya Patel,"Torts, Contract Law",NLU Delhi,Research-focused,3.65
+M407,Kabir Chopra,"Taxation, Contract Law",NLSIU Bangalore,Research-focused,4.91
+M408,Ishaan Chopra,"Contract Law, Taxation",NALSAR Hyderabad,Interactive,4.44
+M409,Anaya Verma,"Corporate Law, Contract Law",NLSIU Bangalore,Research-focused,4.83
+M410,Aditya Mehta,"Corporate Law, Taxation",NALSAR Hyderabad,Case-based,3.7
+M411,Siya Sharma,"Criminal Law, Torts",NALSAR Hyderabad,Discussion-based,4.72
+M412,Ishaan Joshi,"Constitutional Law, Corporate Law",NLSIU Bangalore,Discussion-based,4.63
+M413,Myra Verma,"Intellectual Property Law, Criminal Law",NALSAR Hyderabad,Research-focused,4.16
+M414,Ishaan Sharma,"Constitutional Law, Intellectual Property Law",WBNUJS Kolkata,Lecture-based,4.07
+M415,Myra Patel,"Corporate Law, Criminal Law",NLSIU Bangalore,Research-focused,3.9
+M416,Aditya Mehta,"Corporate Law, Intellectual Property Law",NLU Jodhpur,Research-focused,3.64
+M417,Myra Kumar,"Intellectual Property Law, Corporate Law",NLSIU Bangalore,Lecture-based,4.18
+M418,Aadhya Kumar,"Torts, Constitutional Law",NLU Delhi,Research-focused,4.83
+M419,Kabir Singh,"Taxation, Constitutional Law",NLU Jodhpur,Lecture-based,3.7
+M420,Riya Mehta,"Torts, Corporate Law",WBNUJS Kolkata,Research-focused,4.88
+M421,Aditya Patel,"Torts, Corporate Law",NALSAR Hyderabad,Discussion-based,3.5
+M422,Aadhya Sharma,"Criminal Law, Constitutional Law",NLSIU Bangalore,Lecture-based,4.0
+M423,Ishaan Chopra,"Criminal Law, Contract Law",NLU Delhi,Research-focused,3.67
+M424,Aditya Kapoor,"Contract Law, Intellectual Property Law",NLSIU Bangalore,Case-based,4.86
+M425,Aarav Patel,"Constitutional Law, Torts",NLU Delhi,Interactive,3.86
+M426,Siya Joshi,"Corporate Law, Torts",NLU Delhi,Research-focused,4.61
+M427,Riya Sharma,"Taxation, Corporate Law",NLSIU Bangalore,Research-focused,4.03
+M428,Aadhya Singh,"Corporate Law, Taxation",NLU Jodhpur,Lecture-based,3.76
+M429,Anaya Sharma,"Intellectual Property Law, Contract Law",WBNUJS Kolkata,Case-based,3.65
+M430,Aarav Kapoor,"Intellectual Property Law, Torts",NALSAR Hyderabad,Interactive,3.57
+M431,Aarav Kapoor,"Corporate Law, Contract Law",NALSAR Hyderabad,Research-focused,3.83
+M432,Myra Sharma,"Corporate Law, Torts",NALSAR Hyderabad,Lecture-based,4.65
+M433,Aadhya Kumar,"Torts, Criminal Law",NLU Delhi,Discussion-based,4.97
+M434,Myra Sharma,"Constitutional Law, Taxation",NLSIU Bangalore,Case-based,3.59
+M435,Aadhya Sharma,"Intellectual Property Law, Criminal Law",NLU Delhi,Case-based,4.44
+M436,Aadhya Verma,"Criminal Law, Torts",NALSAR Hyderabad,Lecture-based,4.19
+M437,Aditya Verma,"Contract Law, Intellectual Property Law",NALSAR Hyderabad,Research-focused,4.19
+M438,Ishaan Kapoor,"Torts, Taxation",NALSAR Hyderabad,Case-based,4.36
+M439,Kabir Kumar,"Torts, Criminal Law",WBNUJS Kolkata,Research-focused,3.67
+M440,Siya Sharma,"Taxation, Corporate Law",NLU Jodhpur,Case-based,4.07
+M441,Anaya Kumar,"Corporate Law, Torts",NALSAR Hyderabad,Case-based,3.99
+M442,Aarav Mehta,"Intellectual Property Law, Contract Law",WBNUJS Kolkata,Research-focused,4.12
+M443,Myra Chopra,"Constitutional Law, Criminal Law",NALSAR Hyderabad,Lecture-based,3.65
+M444,Myra Kumar,"Constitutional Law, Intellectual Property Law",WBNUJS Kolkata,Interactive,4.41
+M445,Siya Chopra,"Constitutional Law, Intellectual Property Law",NLSIU Bangalore,Case-based,3.72
+M446,Anaya Kapoor,"Intellectual Property Law, Torts",NALSAR Hyderabad,Research-focused,4.04
+M447,Aadhya Chopra,"Taxation, Contract Law",NLSIU Bangalore,Lecture-based,3.71
+M448,Vivaan Singh,"Taxation, Contract Law",NLU Jodhpur,Lecture-based,4.59
+M449,Kabir Chopra,"Criminal Law, Constitutional Law",WBNUJS Kolkata,Case-based,4.12
+M450,Riya Kumar,"Corporate Law, Criminal Law",NALSAR Hyderabad,Case-based,4.09
+M451,Anaya Kumar,"Criminal Law, Taxation",NLSIU Bangalore,Research-focused,3.61
+M452,Aadhya Singh,"Criminal Law, Constitutional Law",NLU Jodhpur,Discussion-based,4.99
+M453,Ishaan Patel,"Contract Law, Taxation",NLU Delhi,Lecture-based,4.24
+M454,Kabir Singh,"Intellectual Property Law, Torts",WBNUJS Kolkata,Discussion-based,4.03
+M455,Aadhya Patel,"Criminal Law, Corporate Law",NALSAR Hyderabad,Discussion-based,3.59
+M456,Vivaan Sharma,"Constitutional Law, Taxation",NALSAR Hyderabad,Research-focused,4.7
+M457,Myra Sharma,"Corporate Law, Criminal Law",WBNUJS Kolkata,Lecture-based,3.88
+M458,Anaya Chopra,"Constitutional Law, Taxation",NLSIU Bangalore,Interactive,4.4
+M459,Kabir Sharma,"Contract Law, Constitutional Law",NLU Jodhpur,Case-based,4.29
+M460,Riya Sharma,"Torts, Criminal Law",NLU Delhi,Discussion-based,4.0
+M461,Aarav Sharma,"Corporate Law, Torts",WBNUJS Kolkata,Interactive,4.3
+M462,Riya Chopra,"Constitutional Law, Contract Law",NLU Delhi,Case-based,4.21
+M463,Kabir Sharma,"Criminal Law, Corporate Law",NLSIU Bangalore,Interactive,4.52
+M464,Riya Singh,"Contract Law, Constitutional Law",NALSAR Hyderabad,Case-based,4.15
+M465,Vivaan Sharma,"Taxation, Criminal Law",WBNUJS Kolkata,Discussion-based,4.11
+M466,Vivaan Sharma,"Torts, Constitutional Law",WBNUJS Kolkata,Discussion-based,3.9
+M467,Aditya Bansal,"Taxation, Intellectual Property Law",NLU Jodhpur,Case-based,4.23
+M468,Aarav Joshi,"Torts, Criminal Law",NLU Jodhpur,Discussion-based,3.57
+M469,Kabir Kapoor,"Constitutional Law, Contract Law",NLSIU Bangalore,Interactive,4.77
+M470,Anaya Bansal,"Taxation, Contract Law",WBNUJS Kolkata,Research-focused,4.44
+M471,Ishaan Singh,"Torts, Contract Law",WBNUJS Kolkata,Discussion-based,3.69
+M472,Riya Mehta,"Contract Law, Corporate Law",NLU Delhi,Discussion-based,3.5
+M473,Siya Mehta,"Contract Law, Constitutional Law",NLSIU Bangalore,Discussion-based,3.6
+M474,Vivaan Singh,"Corporate Law, Torts",NLSIU Bangalore,Case-based,4.6
+M475,Kabir Singh,"Corporate Law, Taxation",NLSIU Bangalore,Interactive,3.67
+M476,Riya Patel,"Intellectual Property Law, Torts",WBNUJS Kolkata,Case-based,4.9
+M477,Ishaan Singh,"Intellectual Property Law, Corporate Law",NLU Delhi,Interactive,3.8
+M478,Ishaan Verma,"Intellectual Property Law, Torts",NLU Delhi,Discussion-based,3.75
+M479,Siya Chopra,"Taxation, Contract Law",NLU Delhi,Research-focused,4.59
+M480,Siya Mehta,"Taxation, Contract Law",NLU Delhi,Discussion-based,3.62
+M481,Siya Patel,"Torts, Constitutional Law",WBNUJS Kolkata,Research-focused,4.69
+M482,Vivaan Bansal,"Torts, Corporate Law",NALSAR Hyderabad,Discussion-based,4.08
+M483,Aadhya Mehta,"Contract Law, Criminal Law",NLU Delhi,Lecture-based,4.77
+M484,Aadhya Singh,"Criminal Law, Torts",NLU Jodhpur,Lecture-based,4.13
+M485,Riya Singh,"Torts, Taxation",NLU Delhi,Discussion-based,4.75
+M486,Riya Verma,"Constitutional Law, Contract Law",NLU Delhi,Case-based,3.8
+M487,Ishaan Singh,"Intellectual Property Law, Torts",NLSIU Bangalore,Lecture-based,4.13
+M488,Aadhya Bansal,"Corporate Law, Taxation",WBNUJS Kolkata,Discussion-based,4.09
+M489,Anaya Sharma,"Criminal Law, Taxation",NLU Jodhpur,Discussion-based,4.46
+M490,Vivaan Joshi,"Torts, Corporate Law",NLU Delhi,Research-focused,3.82
+M491,Aarav Chopra,"Taxation, Intellectual Property Law",NLU Delhi,Discussion-based,4.78
+M492,Anaya Kumar,"Contract Law, Corporate Law",WBNUJS Kolkata,Discussion-based,4.33
+M493,Myra Verma,"Constitutional Law, Contract Law",NLU Delhi,Interactive,3.9
+M494,Ishaan Mehta,"Criminal Law, Torts",NLSIU Bangalore,Research-focused,4.95
+M495,Ishaan Patel,"Torts, Contract Law",NLSIU Bangalore,Research-focused,4.49
+M496,Ishaan Sharma,"Corporate Law, Taxation",NLU Delhi,Case-based,4.26
+M497,Aadhya Singh,"Torts, Corporate Law",NLSIU Bangalore,Case-based,4.3
+M498,Aadhya Patel,"Torts, Criminal Law",NALSAR Hyderabad,Case-based,3.65
+M499,Aadhya Kumar,"Taxation, Intellectual Property Law",NLU Jodhpur,Research-focused,4.33
+M500,Aditya Bansal,"Constitutional Law, Taxation",NLU Delhi,Lecture-based,3.89
